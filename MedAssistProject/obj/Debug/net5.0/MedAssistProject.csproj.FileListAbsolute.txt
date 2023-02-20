@@ -1,0 +1,6 @@
+M:\Karim\Downloads\gradProject\MedAssistProject\obj\Debug\net5.0\MedAssistProject.csproj.AssemblyReference.cache
+M:\Karim\Downloads\gradProject\MedAssistProject\obj\Debug\net5.0\MedAssistProject.GeneratedMSBuildEditorConfig.editorconfig
+M:\Karim\Downloads\gradProject\MedAssistProject\obj\Debug\net5.0\MedAssistProject.AssemblyInfoInputs.cache
+M:\Karim\Downloads\gradProject\MedAssistProject\obj\Debug\net5.0\MedAssistProject.AssemblyInfo.cs
+M:\Karim\Downloads\gradProject\MedAssistProject\obj\Debug\net5.0\MedAssistProject.csproj.CoreCompileInputs.cache
+M:\Karim\Downloads\gradProject\MedAssistProject\obj\Debug\net5.0\MedAssistProject.MvcApplicationPartsAssemblyInfo.cache
